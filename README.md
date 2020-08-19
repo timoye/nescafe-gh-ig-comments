@@ -35,7 +35,7 @@ they will use
 
 ## Note
 
-Only one Vote counts per username
+Only one vote counts per instagram username
 
 Developers, pull and do a count using any language of your choice to determine the winner.
 
