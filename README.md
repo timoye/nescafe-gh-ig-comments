@@ -46,7 +46,7 @@ Developers, pull and do a count using any language of your choice to determine t
 
 ## My Results
 
-I do not know so much about coding but this was what I got using Laravel Collection filter. I will also share that code snippet
+This is what I got using Laravel Collection filter. I will also share that code snippet
 
  ```json
 {
