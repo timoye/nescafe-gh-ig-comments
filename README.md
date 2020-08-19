@@ -66,4 +66,4 @@ This is what I got using Laravel Collection filter. I will also share that code 
 ```
 I would really want people to do this analysis, I may be wrong
 
-JSON file all of comments is here [data_all.json](https://github.com/timoye/nescafe-gh-ig-comments/blob/master/data_all.json)
+JSON file of all comments is here [data_all.json](https://github.com/timoye/nescafe-gh-ig-comments/blob/master/data_all.json)
