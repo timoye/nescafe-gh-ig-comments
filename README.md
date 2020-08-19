@@ -39,4 +39,4 @@ Only one vote counts per instagram username
 
 Developers, pull and do a count using any language of your choice to determine the winner.
 
-[@nescafe_gh](https://www.instagram.com/nescafe_gh/) needs to explain how they come about their numbers
+[@nescafe_gh](https://www.instagram.com/nescafe_gh/) needs to explain how they came about their numbers
