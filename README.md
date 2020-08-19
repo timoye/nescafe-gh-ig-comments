@@ -3,7 +3,7 @@ This Repo contains comments pulled from the  [nescafe_gh Instagram Post](https:/
 
 It was scrapped using [drawrowfly/instagram-scraper](https://github.com/drawrowfly/instagram-scraper)
 
-The [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data_all.json) file contains all the comments in JSON format
+The [data_all.json](https://github.com/timoye/nescafe-gh-ig-comments/blob/master/data_all.json) file contains all the comments in JSON format
 
 [The Instagram post](https://www.instagram.com/p/CCxjYoHpxPP/) was made and people were asked to vote by commenting the contestant of their choice. And only one Vote Per Instagram Account will count.
  
@@ -66,4 +66,4 @@ I do not know so much about coding but this was what I got using Laravel Collect
 ```
 I would really want people to do this analysis, I may be wrong
 
-JSON file all of comments is here [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data_all.json)
+JSON file all of comments is here [data_all.json](https://github.com/timoye/nescafe-gh-ig-comments/blob/master/data_all.json)
