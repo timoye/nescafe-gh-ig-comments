@@ -25,7 +25,7 @@ The [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data
    }
  ```
  
-If Nescafe is to do a filter using each contestant name,
+If Nescafe GH is to do a filter using each contestant name,
 they will use
 
 | Contestant  | Keyword |
@@ -43,3 +43,27 @@ Only one vote counts per instagram username
 Developers, pull and do a count using any language of your choice to determine the winner.
 
 [@nescafe_gh](https://www.instagram.com/nescafe_gh/) needs to explain how they came about their numbers
+
+## My Results
+
+I do not know so much about coding but this was what I got using Laravel Collection filter. I will also share that code snippet
+
+ ```json
+{
+"all_comments": 15318,
+"real_users_count": 4377,
+"all_youngnik_comments": 1538,
+"all_gidochi_comments": 5356,
+"all_kobi_newton_comments": 2682,
+"all_spookythemaniac_comments": 2925,
+"all_nessa_comments": 2115,
+"youngnik": 1289,
+"gidochi": 938,
+"kobi_newton": 686,
+"spookythemaniac": 691,
+"nessa": 321
+} 
+```
+I would really want people to do this analysis, I may be wrong
+
+JSON file all of comments is here [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data_all.json)
