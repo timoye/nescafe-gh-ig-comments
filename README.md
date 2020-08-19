@@ -2,7 +2,7 @@
 This Repo contains comments pulled from the  [nescafe_gh Instagram Post](https://www.instagram.com/p/CCxjYoHpxPP/)
 The [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data_all.json) file contains all the comments in JSON format
 
-[The post](https://www.instagram.com/p/CCxjYoHpxPP/) was made and people were asked to vote by commenting the contestant of their choice. And only one Vote Per Instagram Account will count.
+[The Instagram post](https://www.instagram.com/p/CCxjYoHpxPP/) was made and people were asked to vote by commenting the contestant of their choice. And only one Vote Per Instagram Account will count.
  
  An object in the collection looks like this
  ```json
