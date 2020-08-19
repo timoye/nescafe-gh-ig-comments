@@ -1,4 +1,4 @@
-# Nescafe #NESCAFÉOneSong Instagram Competition Comments
+# Nescafe GH #NESCAFÉOneSong Instagram Competition Comments
 This Repo contains comments pulled from the  [nescafe_gh Instagram Post](https://www.instagram.com/p/CCxjYoHpxPP/)
 The [data_all.json](https://github.com/timoye/kotey-ig-response/blob/master/data_all.json) file contains all the comments in JSON format
 
