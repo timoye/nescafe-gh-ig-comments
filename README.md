@@ -33,7 +33,7 @@ they will use
 | Young Nik Gram  | young  |
 | Gidochi  | gidochi  |
 
-###Note
+##Note
 Only one Vote counts per username
 
 Developers, pull and do a count using any language of your choice to determine the winner.
